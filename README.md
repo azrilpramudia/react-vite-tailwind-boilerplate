@@ -22,8 +22,8 @@ with SSH
 
 ## Installing Dependencies
 
-`npm install`
+> `npm install`
 
 ## Running the Application Local
 
-`npm run dev`
+> `npm run dev`
