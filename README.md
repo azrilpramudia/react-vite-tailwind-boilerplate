@@ -9,8 +9,9 @@
 with HTTPS
 
 > `https://github.com/Azrilpramudia/react-vite-tailwind-boilerplate.git`
->
-> with SSH
+
+with SSH
+
 > `git@github.com:Azrilpramudia/react-vite-tailwind-boilerplate.git`
 
 ## Open Text Editor
