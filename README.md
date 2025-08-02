@@ -14,6 +14,12 @@ with SSH
 
 > `git@github.com:Azrilpramudia/react-vite-tailwind-boilerplate.git`
 
+## Stack
+- React 19
+- Tailwind v4
+- Vite
+- React Router DOM 7
+
 ## Open Text Editor
 
 - Visual Code Studio (recommended)
